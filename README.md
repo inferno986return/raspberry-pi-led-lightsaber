@@ -12,7 +12,7 @@ For this tutorial I recommend using [IDLE (Python 2.7)](https://www.python.org/d
 
 To setup the lightsaber, do the following (refer to the Fritzing diagram below or in the PDF):
 
-1. Connect the 4 jumper cables from the GPIO pins 13, 19, 26 and GND (last four bottom right pins) to the bottom left four holes of the breadboard. I recommend trying to use the colour cables that match the diagram exactly, though any colour combination can be used.
+1. Connect the 4 jumper cables from the GPIO pins 13, 19, 26 and GND (last four bottom right pins, assuming the USB and Ethernet ports are to the right) to the bottom left four holes of the breadboard. I recommend trying to use the colour cables that match the diagram exactly, though any colour combination can be used.
 
 2. Connect the 68Ω resistor by placing one connector into the first pin and another into the last pin of the row above the jumper cables.
 
