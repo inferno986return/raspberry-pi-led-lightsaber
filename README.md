@@ -26,7 +26,7 @@ Cotswold Jam tutorial code and instructions are in the public domain. To simplif
 The [GPIO pin diagram](https://www.raspberrypi.org/documentation/usage/gpio/) is courtesy of the Raspberry Pi Foundation and used under the **Creative Commons ShareAlike 4.0 (CC-BY-SA)**.
 
 ## And FINALLY
-If you love this tutorial, please drop a [donation](PayPal.me/cotswoldjam) to Cotswold Jam. :-)
+If you love this tutorial, please drop a [donation](https://www.PayPal.me/cotswoldjam) to Cotswold Jam. :-)
 
 ## Photos and diagrams
 ![](IMG_2132.JPG "A demonstration using a small 5×5 breadboard")
