@@ -28,4 +28,4 @@ If you love this tutorial, please drop a [donation](PayPal.me/cotswoldjam) to Co
 
 ## Photos
 ![](IMG_2132.JPG "A demonstration using a small 5×5 breadboard")
-![](FritzingDiagram.jpg "A Fritzing diagram of the components")
+![](FritzingDiagram.png "A Fritzing diagram of the components")
