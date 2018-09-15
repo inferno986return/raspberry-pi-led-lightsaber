@@ -23,9 +23,12 @@ To setup the lightsaber, do the following (refer to the Fritzing diagram below o
 ## Licensing
 Cotswold Jam tutorial code and instructions are in the public domain. To simplify things, I have formally licensed the code and documenation in this repository under the **Creative Commons Zero 1.0 Universal (CC0 1.0)**.
 
+The [GPIO pin diagram](https://www.raspberrypi.org/documentation/usage/gpio/) is courtesy of the Raspberry Pi Foundation and used under the **Creative Commons ShareAlike 4.0 (CC-BY-SA)**.
+
 ## And FINALLY
 If you love this tutorial, please drop a [donation](PayPal.me/cotswoldjam) to Cotswold Jam. :-)
 
-## Photos
+## Photos and diagrams
 ![](IMG_2132.JPG "A demonstration using a small 5×5 breadboard")
 ![](FritzingDiagram.png "A Fritzing diagram of the components")
+![](gpio-numbers-pi2.png "GPIO pin layout, this project uses pins 13, 19, 26 and GND (the last four)")
